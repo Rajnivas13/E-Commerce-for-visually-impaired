@@ -1,0 +1,53 @@
+.footer
+{
+    background-color:black;
+    width:100%;
+    margin:0;
+    max-height:200px;
+    position: absolute;
+    
+}
+.footer .footer-content{
+     color:white;
+     transform:x-axis ;
+}
+.row.product1{
+    padding-top:65px;
+}
+.container.success{
+    padding-left:200px;
+    margin-left: 25%;
+}
+.container.success1{
+    padding-left:10px;
+}
+.row .y{
+    text-decoration-style:none;
+}
+
+
+.table.style{
+    height:100%;
+    width:auto;
+    margin-bottom:20px;
+   
+}
+.form-inline .forum{
+   margin-left:5px;
+
+}
+/* .thumbnail{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 50px 100px blueviolet;    
+} */
+.margin{
+    height:50%;
+    width:60%;
+}
+.rapid{
+    max-width:100px !important;
+}
+.rux{
+    max-width:250px !important;
+}
